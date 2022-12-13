@@ -1,0 +1,2 @@
+My first command line file
+My first git class
